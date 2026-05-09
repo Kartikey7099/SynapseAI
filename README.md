@@ -155,33 +155,10 @@ python app.py
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome!
-
-Feel free to fork this repo and submit a pull request.
-
----
-
 ## 📬 Connect with Me
 
 If you found this project useful or want to collaborate:
 
 * LinkedIn: *[Add your LinkedIn]*
-* GitHub: *[Add your GitHub]*
-
----
-
-## ⭐ Support
-
-If you like this project, don’t forget to **star ⭐ the repo**!
-
----
-
-## 🧾 License
-
-This project is open-source and available under the **MIT License**.
-
----
 
 > "Stop prompting AI. Start designing AI systems." 🚀
