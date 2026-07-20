@@ -155,10 +155,4 @@ python app.py
 
 ---
 
-## 📬 Connect with Me
-
-If you found this project useful or want to collaborate:
-
-* LinkedIn: *[Add your LinkedIn]*
-
 > "Stop prompting AI. Start designing AI systems." 🚀
